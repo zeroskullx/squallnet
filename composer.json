@@ -1,0 +1,13 @@
+{
+    "name": "zeroskullx/squallnet",
+    "description": "N/A",
+    "type": "library",
+    "license": "LGPL-2.1-only",
+    "authors": [
+        {
+            "name": "Rogerio Felix",
+            "email": "zeroskullx@msn.com"
+        }
+    ],
+    "require": {}
+}
