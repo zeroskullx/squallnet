@@ -3,11 +3,17 @@
     "description": "N/A",
     "type": "library",
     "license": "LGPL-2.1-only",
+	"version": "1.0.0",
     "authors": [
         {
             "name": "Rogerio Felix",
             "email": "zeroskullx@msn.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+		]
+	}
 }
