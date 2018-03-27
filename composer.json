@@ -16,5 +16,5 @@
             "registration.php"
 		]
 	},
-	"minimum-stability": "stable"
+	"minimum-stability": "dev"
 }
